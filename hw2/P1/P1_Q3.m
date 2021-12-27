@@ -1,0 +1,1 @@
+error = norm(X1-X)/norm(X)
